@@ -1,5 +1,6 @@
 # A single-hit Poisson model of Cre mRNA delivery
 
+Authors: Julia Borgsved, Angela Lyman
 CB2330 project, autumn 2026.
 
 ## What this is
